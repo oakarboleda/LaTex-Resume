@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.23)  24 JUL 2024 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.23)  24 JUL 2024 13:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -839,35 +839,35 @@ LaTeX Info: Redefining \textssc on input line 48.
 LaTeX Info: Redefining \textulc on input line 49.
 ))
 LaTeX Font Info:    Trying to load font information for T1+lato-TLF on input li
-ne 17.
+ne 12.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/lato/T1lato-TLF.fd
 File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 17.
+(Font)              scaled to size 10.0pt on input line 12.
 
 (/Users/oakdeden-arboleda/Documents/LaTeX/Resumes/out/cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -891,7 +891,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 12.
 
 (/Users/oakdeden-arboleda/Documents/LaTeX/Resumes/out/cv.out)
 (/Users/oakdeden-arboleda/Documents/LaTeX/Resumes/out/cv.out)
@@ -936,36 +936,36 @@ Package hyperref Info: Link coloring OFF on input line 17.
 \c@mv@tabular=\count327
 \c@mv@boldtabular=\count328
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 24.88pt on input line 27.
+(Font)              scaled to size 24.88pt on input line 22.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 24.88pt on input line 27.
+(Font)              scaled to size 24.88pt on input line 22.
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--27
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
  []\T1/lato-TLF/b/n/24.88 OAK AR-BOLEDA 
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 22.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 12.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 22.
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 27.
+(Font)              scaled to size 10.0pt on input line 22.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 27.
+nput line 22.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd
 )
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 27.
+ input line 22.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.
 fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <10> not 
 available
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 27.
+n input line 22.
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 27.
+nput line 22.
 
 (/usr/local/texlive/2024/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd
 ) (./sections/work_experience.tex
@@ -1017,92 +1017,99 @@ Overfull \hbox (2.55998pt too wide) in paragraph at lines 37--37
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 53--53
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 51--51
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 53--53
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 51--51
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 68--68
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 65--65
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 68--68
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 65--65
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 80--80
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 77--77
 [] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 80--80
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 77--77
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 94--94
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 91--91
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 94--94
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 91--91
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 107--107
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 103--103
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 107--107
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 103--103
+[][] []  
+ []
+
+[1
+
+{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/loc
+al/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loca
+l/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/loc
+al/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/loca
+l/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local
+/texlive/2024/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}]
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 116--116
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 120--120
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 116--116
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 120--120
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 130--130
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 135--135
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 130--130
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 135--135
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 143--143
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 148--148
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 143--143
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 148--148
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 156--156
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 161--161
-[][] []  
- []
-
-
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 161--161
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 156--156
 [][] []  
  []
 
@@ -1419,8 +1426,8 @@ l.5 \end{itemize}
 I'm forgetting what you said and using zero instead.
 
 
-./sections/education.tex:5: LaTeX Error: \begin{paracol} on input line 33 ended
- by \end{itemize}.
+./sections/education.tex:5: LaTeX Error: \begin{document} ended by \end{itemize
+}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
@@ -1433,45 +1440,109 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ) (./sections/achievements.tex
-./sections/achievements.tex:1: You can't use `\prevdepth' in restricted horizon
-tal mode.
+
+./sections/achievements.tex:1: LaTeX Error: Environment publications undefined.
+
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{publications}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./sections/achievements.tex:7: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.7 \end{}
+          
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./sections/achievements.tex:7: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.7 \end{}
+          
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+)
+./cv.tex:33: Incomplete \if; all text was ignored after line 7.
+<inserted text> 
+                \fi 
+l.33     \input{sections/achievements.tex}
+                                          
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
+
+./cv.tex:33: Missing number, treated as zero.
+<to be read again> 
+                   \__kernel_tl_set:Nx 
+l.33     \input{sections/achievements.tex}
+                                          
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+(./sections/side_projects.tex
+
+./sections/side_projects.tex:1: LaTeX Error: Environment  undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{}
+            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+./sections/side_projects.tex:2: You can't use `\prevdepth' in restricted horizo
+ntal mode.
 \nointerlineskip ->\prevdepth 
                               -\@m \p@ 
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
 If you're in the wrong mode, you might be able to
 return to the right one by typing `I}' or `I$' or `I\par'.
 
-./sections/achievements.tex:1: Missing $ inserted.
+./sections/side_projects.tex:2: Missing $ inserted.
 <inserted text> 
                 $
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 1.
+(Font)              <7> on input line 2.
+<<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <5> on input line 1.
+(Font)              <5> on input line 2.
 
-./sections/achievements.tex:1: Missing number, treated as zero.
+./sections/side_projects.tex:2: Missing number, treated as zero.
 <to be read again> 
                    \protect 
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-./sections/achievements.tex:1: Illegal unit of measure (pt inserted).
+./sections/side_projects.tex:2: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \protect 
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -1480,60 +1551,82 @@ delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
 
-LaTeX Font Warning: Command \large invalid in math mode on input line 1.
+LaTeX Font Warning: Command \large invalid in math mode on input line 2.
 
 
-./sections/achievements.tex:1: LaTeX Error: Command \bfseries invalid in math m
-ode.
+./sections/side_projects.tex:2: LaTeX Error: Command \bfseries invalid in math 
+mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 Please use the math alphabet \mathbf instead of the \bfseries command. 
 
 
-./sections/achievements.tex:1: LaTeX Error: There's no line here to end.
+./sections/side_projects.tex:2: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-./sections/achievements.tex:1: Missing $ inserted.
+./sections/side_projects.tex:2: Missing $ inserted.
 <inserted text> 
                 $
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-Missing character: There is no è in font cmex9!
+Missing character: There is no è in font cmex10!
 
-./sections/achievements.tex:1: LaTeX Error: Something's wrong--perhaps a missin
-g \item.
+./sections/side_projects.tex:2: LaTeX Error: Something's wrong--perhaps a missi
+ng \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-./sections/achievements.tex:1: Missing } inserted.
+./sections/side_projects.tex:2: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.2 \cvsection{Side Projects}
+                             
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./sections/side_projects.tex:2: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.2 \cvsection{Side Projects}
+                             
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+./sections/side_projects.tex:2: Missing } inserted.
 <inserted text> 
                 }
-l.1 \cvsection{Publications}
-                            
+l.2 \cvsection{Side Projects}
+                             
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -1541,128 +1634,66 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Overfull \hbox (2.30399pt too wide) in paragraph at lines 6--6
-[][] []  
- []
-
-./sections/achievements.tex:6: Argument of \cvpublication has an extra }.
-<inserted text> 
-                \par 
-l.6 \cvpublication
-                  
-I've run across a `}' that doesn't seem to match anything.
-For example, `\def\a#1{...}' and `\a}' would produce
-this error. If you simply proceed now, the `\par' that
-I've just inserted will cause me to report a runaway
-argument that might be the root of the problem. But if
-your `}' was spurious, just type `2' and it will go away.
-
-Runaway argument?
-./sections/achievements.tex:6: Paragraph ended before \cvpublication was comple
-te.
-<to be read again> 
-                   \par 
-l.6 \cvpublication
-                  
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-./sections/achievements.tex:6: Extra }, or forgotten \endgroup.
-<recently read> }
-                 
-l.6 \cvpublication
-                  
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-) (./sections/side_projects.tex
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 2--2
+Overfull \hbox (2.30399pt too wide) in paragraph at lines 3--3
 [][] []  
  []
 
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <9> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 2.
+n input line 3.
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 2--2
+Overfull \hbox (2.30399pt too wide) in paragraph at lines 3--3
 [][] []  
  []
 
 
-Overfull \hbox (2.55998pt too wide) in paragraph at lines 3--3
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 4--4
 [][] []  
  []
 
-./sections/side_projects.tex:3: Missing } inserted.
+
+Overfull \hbox (2.55998pt too wide) in paragraph at lines 4--4
+[][] []  
+ []
+
+./sections/side_projects.tex:5: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.5 \end{}
+          
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./sections/side_projects.tex:5: Missing \endcsname inserted.
+<to be read again> 
+                   \def 
+l.5 \end{}
+          
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+)
+./cv.tex:35: Incomplete \if; all text was ignored after line 5.
 <inserted text> 
-                }
-l.3 ...pi}\cvtag{Git}\cvtag{Github Actions}}\cvtag
-                                                  {Vercel}{\href{https://git...
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
+                \fi 
+l.35     \input{sections/side_projects.tex}
+                                           
+The file ended while I was skipping conditional text.
+This kind of error happens when you say `\if...' and forget
+the matching `\fi'. I've inserted a `\fi'; this might work.
 
+./cv.tex:35: Missing number, treated as zero.
+<to be read again> 
+                   \__kernel_tl_set:Nx 
+l.35     \input{sections/side_projects.tex}
+                                           
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
 
-./sections/side_projects.tex:3: Package tikz Error: Giving up on this path. Did
- you forget a semicolon?.
-
-See the tikz package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 ...pi}\cvtag{Git}\cvtag{Github Actions}}\cvtag
-                                                  {Vercel}{\href{https://git...
-This error message was generated by an \errmessage
-command, so I can't give any explicit help.
-Pretend that you're Hercule Poirot: Examine all clues,
-and deduce the truth by order and method.
-
-./sections/side_projects.tex:3: Extra }, or forgotten \endgroup.
-\@begin@tempboxa ...begingroup #2\color@endgroup }
-                                                  \def \width {\wd \@tempbox...
-l.3 ...pi}\cvtag{Git}\cvtag{Github Actions}}\cvtag
-                                                  {Vercel}{\href{https://git...
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-
-Overfull \hbox (7.21747pt too wide) in paragraph at lines 3--3
-[][] \T1/lato-TLF/m/n/9 ; []  
- []
-
-) (./sections/skills.tex [1
-
-{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/loc
-al/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/loca
-l/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/loc
-al/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/loca
-l/texlive/2024/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/local
-/texlive/2024/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}]) [2] [3]
-
-./cv.tex:47: LaTeX Error: \begin{paracol} on input line 33 ended by \end{docume
-nt}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.47 \end{document}
-                   
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[4] (/Users/oakdeden-arboleda/Documents/LaTeX/Resumes/out/cv.aux)
+(./sections/skills.tex) [2]
+(/Users/oakdeden-arboleda/Documents/LaTeX/Resumes/out/cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1670,30 +1701,28 @@ L3 programming layer <2024-02-20>
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  )
-(\end occurred inside a group at level 4)
+(\end occurred inside a group at level 2)
 
-### simple group (level 4) entered at line 6 ({)
-### semi simple group (level 3) entered at line 3 (\begingroup)
-### simple group (level 2) entered at line 3 ({)
-### semi simple group (level 1) entered at line 33 (\begingroup)
+### semi simple group (level 2) entered at line 3 (\begingroup)
+### simple group (level 1) entered at line 3 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 32631 strings out of 474116
- 643167 string characters out of 5743682
- 2013187 words of memory out of 5000000
- 54405 multiletter control sequences out of 15000+600000
- 763087 words of font info for 69 fonts, out of 8000000 for 9000
+ 32512 strings out of 474116
+ 641099 string characters out of 5743682
+ 1987187 words of memory out of 5000000
+ 54298 multiletter control sequences out of 15000+600000
+ 760628 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,8n,121p,589b,2477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,8n,121p,589b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2024/texmf-dist/fonts/type1/public/fontawes
 ome5/FontAwesome5Brands-Regular.pfb></usr/local/texlive/2024/texmf-dist/fonts/t
 ype1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/local/texlive/2024/te
 xmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/local/texlive/2024/texmf
 -dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
 Output written on /Users/oakdeden-arboleda/Documents/LaTeX/Resumes/out/cv.pdf (
-4 pages, 140139 bytes).
+2 pages, 138210 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 5 named destinations out of 1000 (max. 500000)
+ 66 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  45 words of extra memory for PDF output out of 10000 (max. 10000000)
 

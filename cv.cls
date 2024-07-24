@@ -26,10 +26,8 @@
 \newif\ifxetexorluatex
 \ifxetex
 \xetexorluatextrue
-\else
 \ifluatex
 \xetexorluatextrue
-\else
 \xetexorluatexfalse
 \fi
 \fi
@@ -186,6 +184,8 @@
 \NewInfoField{linkedin}{\faLinkedin}[https://linkedin.com/in/]
 \NewInfoField{github}{\faGithub}[https://github.com/]
 \NewInfoField{location}{\faMapMarker}
+\NewInfoField{phone}{\faPhone}
+
 
 % OLD
 % \newcommand{\namefont}{\huge\bfseries}
